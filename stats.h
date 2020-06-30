@@ -1,4 +1,4 @@
-******************************************************************************
+/*******************************************************************************
  * Copyright (C) 2017 by Alex Fosdick - University of Colorado
  *
  * Redistribution, modification or use of this software in source or binary
@@ -11,7 +11,7 @@
 /**
  * @file stats.h 
  * @brief program used to print out the statistics of a list of given data such as : 1.Maximum
- *										     2.Minimum
+ *										                                             2.Minimum
  *                                                                                   3.Mean
  *                                                                                   4.Median
  *
